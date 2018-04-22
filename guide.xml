@@ -1,27 +1,107 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Tcpremium.br">
-    <display-name lang="pt">Tcpremium.br</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
   <channel id="Tcaction.br">
     <display-name lang="pt">Tcaction.br</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
-  <channel id="Tctouch.br">
-    <display-name lang="pt">Tctouch.br</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
-  <channel id="Tcfun.br">
-    <display-name lang="pt">Tcfun.br</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
-  <channel id="Tcpipoca.br">
-    <display-name lang="pt">Tcpipoca.br</display-name>
-    <url>http://www.clarotv.com.br</url>
+    <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Tccult.br">
     <display-name lang="pt">Tccult.br</display-name>
-    <url>http://www.clarotv.com.br</url>
+    <url>http://www.meuguia.tv</url>
   </channel>
+  <channel id="Tcfun.br">
+    <display-name lang="pt">Tcfun.br</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Tcpipoca.br">
+    <display-name lang="pt">Tcpipoca.br</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Tcpremium.br">
+    <display-name lang="pt">Tcpremium.br</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Tctouch.br">
+    <display-name lang="pt">Tctouch.br</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20180422173000 -0300" stop="20180422201500 -0300" channel="Tcaction.br">
+    <title lang="pt">Capitão América: Guerra Civil</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180422201500 -0300" stop="20180422220000 -0300" channel="Tcaction.br">
+    <title lang="pt">João e Maria: Caçadores de Bruxas</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180422220000 -0300" stop="20180422235500 -0300" channel="Tcaction.br">
+    <title lang="pt">Abraham Lincoln - Caçador de Vampiros</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180422235500 -0300" stop="20180423014000 -0300" channel="Tcaction.br">
+    <title lang="pt">Amanhecer Violento</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180422181500 -0300" stop="20180422220000 -0300" channel="Tccult.br">
+    <title lang="pt">Guerra e Paz</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180422220000 -0300" stop="20180422235500 -0300" channel="Tccult.br">
+    <title lang="pt">É Apenas o Fim do Mundo</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180422235500 -0300" stop="20180423015500 -0300" channel="Tccult.br">
+    <title lang="pt">O Estranho que Nós Amamos</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180422181500 -0300" stop="20180422200000 -0300" channel="Tcfun.br">
+    <title lang="pt">O Rei Leão</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20180422200000 -0300" stop="20180422220000 -0300" channel="Tcfun.br">
+    <title lang="pt">Um Time Show de Bola</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20180422220000 -0300" stop="20180423000500 -0300" channel="Tcfun.br">
+    <title lang="pt">Anjos da Lei</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180422173000 -0300" stop="20180422200000 -0300" channel="Tcpipoca.br">
+    <title lang="pt">Piratas do Caribe: Navegando em Águas Misteriosas</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180422200000 -0300" stop="20180422222500 -0300" channel="Tcpipoca.br">
+    <title lang="pt">Piratas do Caribe: A Vingança de Salazar</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180422222500 -0300" stop="20180423003500 -0300" channel="Tcpipoca.br">
+    <title lang="pt">Alien: Covenant</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20180422172500 -0300" stop="20180422195500 -0300" channel="Tcpremium.br">
+    <title lang="pt">Velozes e Furiosos 8</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180422195500 -0300" stop="20180422220000 -0300" channel="Tcpremium.br">
+    <title lang="pt">Assassin's Creed</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180422220000 -0300" stop="20180422234000 -0300" channel="Tcpremium.br">
+    <title lang="pt">Viagem das Loucas</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180422234000 -0300" stop="20180423012000 -0300" channel="Tcpremium.br">
+    <title lang="pt">Tempo Contado</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180422180500 -0300" stop="20180422200000 -0300" channel="Tctouch.br">
+    <title lang="pt">Honey 3: No Ritmo do Amor</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180422200000 -0300" stop="20180422220000 -0300" channel="Tctouch.br">
+    <title lang="pt">Enquanto Você Dormia</title>
+    <category lang="pt">Filme/Romance</category>
+  </programme>
+  <programme start="20180422220000 -0300" stop="20180423000500 -0300" channel="Tctouch.br">
+    <title lang="pt">Para o Que Der e Vier</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
 </tv>
