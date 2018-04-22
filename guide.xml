@@ -24,6 +24,10 @@
     <display-name lang="pt">TELECINE TOUCH FHD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
+  <channel id="COMBATE FHD">
+    <display-name lang="pt">COMBATE FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
   <programme start="20180422195500 -0300" stop="20180422220000 -0300" channel="TELECINE PREMIUM FHD">
     <title lang="pt">Assassin's Creed</title>
     <category lang="pt">Filme/Ação</category>
@@ -64,10 +68,6 @@
     <title lang="pt">O Estranho que Nós Amamos</title>
     <category lang="pt">Filme/Drama</category>
   </programme>
-  <programme start="20180422181500 -0300" stop="20180422200000 -0300" channel="TELECINE FUN FHD">
-    <title lang="pt">O Rei Leão</title>
-    <category lang="pt">Filme/Animação</category>
-  </programme>
   <programme start="20180422200000 -0300" stop="20180422220000 -0300" channel="TELECINE FUN FHD">
     <title lang="pt">Um Time Show de Bola</title>
     <category lang="pt">Filme/Animação</category>
@@ -75,10 +75,6 @@
   <programme start="20180422220000 -0300" stop="20180423000500 -0300" channel="TELECINE FUN FHD">
     <title lang="pt">Anjos da Lei</title>
     <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20180422173000 -0300" stop="20180422200000 -0300" channel="TELECINE PIPOCA FHD">
-    <title lang="pt">Piratas do Caribe: Navegando em Águas Misteriosas</title>
-    <category lang="pt">Filme/Aventura</category>
   </programme>
   <programme start="20180422200000 -0300" stop="20180422222500 -0300" channel="TELECINE PIPOCA FHD">
     <title lang="pt">Piratas do Caribe: A Vingança de Salazar</title>
@@ -88,10 +84,6 @@
     <title lang="pt">Alien: Covenant</title>
     <category lang="pt">Filme/Terror</category>
   </programme>
-  <programme start="20180422180500 -0300" stop="20180422200000 -0300" channel="TELECINE TOUCH FHD">
-    <title lang="pt">Honey 3: No Ritmo do Amor</title>
-    <category lang="pt">Filme/Drama</category>
-  </programme>
   <programme start="20180422200000 -0300" stop="20180422220000 -0300" channel="TELECINE TOUCH FHD">
     <title lang="pt">Enquanto Você Dormia</title>
     <category lang="pt">Filme/Romance</category>
@@ -99,5 +91,13 @@
   <programme start="20180422220000 -0300" stop="20180423000500 -0300" channel="TELECINE TOUCH FHD">
     <title lang="pt">Para o Que Der e Vier</title>
     <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180422200000 -0300" stop="20180422233000 -0300" channel="COMBATE FHD">
+    <title lang="pt">UFC Fight Night Combate - Barboza x Lee</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180422233000 -0300" stop="20180423033000 -0300" channel="COMBATE FHD">
+    <title lang="pt">UFC Fight Night Combate - Poirier x Gaethje</title>
+    <category lang="pt">Esporte/Luta</category>
   </programme>
 </tv>
